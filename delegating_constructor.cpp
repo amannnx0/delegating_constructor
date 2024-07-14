@@ -4,7 +4,7 @@ using namespace std;
 
 class Player{
 private:
-    std::string name;
+    std::string name; 
     int health;
     int xp;
 public:
