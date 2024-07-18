@@ -20,7 +20,7 @@ Player::Player()
 
 Player::Player(std::string name_val)
     :Player(name_val,0,0){
-        cout<<"\nOne Args constructor";
+        cout<<"\nOne Args constructor ";
     }
 
 Player::Player(std::string name_val,int health_val,int xp_val)
